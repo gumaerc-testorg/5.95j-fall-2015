@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Supplemental Materials
 uid: af75aac9-81b6-fb68-76e9-d5bb4b8fcef3
 ---

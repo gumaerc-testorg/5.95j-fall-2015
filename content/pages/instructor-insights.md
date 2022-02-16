@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 13f35011-4658-d902-4636-ab23aff5c893
 ---
@@ -68,20 +70,6 @@ None
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Image of instructor and students in a classroom. Two students are standing near the instructor and three are sitting at tables. A slide is projected on a pulled down screen.]({{< resource_file c061a1b7-18fe-e77a-111d-8617571e4308 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom equipped with A/V equipment and moveable tables and chairs.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

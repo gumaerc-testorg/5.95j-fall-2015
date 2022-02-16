@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-95j-teaching-college-level-science-and-engineering-fall-2015/83bff24ea609b5053e2537705f1b2669_aGuZTE8-lOQ.srt
+file: /media/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/83bff24ea609b5053e2537705f1b2669_aGuZTE8-lOQ.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 83bff24e-a609-b505-3e25-37705f1b2669

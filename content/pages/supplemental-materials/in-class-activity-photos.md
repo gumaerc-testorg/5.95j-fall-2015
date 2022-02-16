@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Supplemental Materials
+parent_type: CourseSection
 parent_uid: af75aac9-81b6-fb68-76e9-d5bb4b8fcef3
 title: In-class Activity Photos
 uid: 942721ab-4ef5-c000-5aa4-42c147f9a001
 ---
 
-{{< image-gallery id="942721ab-4ef5-c000-5aa4-42c147f9a001_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/5-95j-teaching-college-level-science-and-engineering-fall-2015/" >}}
+{{< image-gallery id="942721ab-4ef5-c000-5aa4-42c147f9a001_nanogallery2" baseUrl="/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/" >}}
 {{< image-gallery-item href="fa38c5d22e640434ebea14175804b03a_15-1.jpg" data-ngdesc="Examples of learning outcomes developed by students during the in-class activity. Photo courtesy of Janet Rankin." text="Examples of learning outcomes developed by students during the in-class activity." >}}
 {{< image-gallery-item href="442946c764a7e4039bc3ca9d131b20b5_15-2.jpg" data-ngdesc="Examples of learning outcomes developed by students during the in-class activity. Photo courtesy of Janet Rankin." text="Examples of learning outcomes developed by students during the in-class activity." >}}
 {{< image-gallery-item href="16559970f042c7fcf2a425888ab9d526_15-3.jpg" data-ngdesc="Examples of learning outcomes developed by students during the in-class activity. Photo courtesy of Janet Rankin." text="Examples of learning outcomes developed by students during the in-class activity." >}}
