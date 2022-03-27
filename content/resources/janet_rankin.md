@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 13f35011-4658-d902-4636-ab23aff5c893
 resourcetype: Image
 title: Janet Rankin
 uid: 78bad098-ce40-7ab5-197e-2235c8193d61

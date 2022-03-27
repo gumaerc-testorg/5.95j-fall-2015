@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class Session 3: Designing a Course: Developing Learning Outcomes'
 uid: 4759e70e-e75d-ccca-98c4-349b9f80744d
 video_files:

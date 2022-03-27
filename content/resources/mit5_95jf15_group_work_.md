@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1230e0a4-90c2-3a03-6ca3-4571ab3c991c
 resourcetype: Document
 title: Grading Group Work
 uid: a775ec31-b67f-09fe-1934-2f2e285f2291

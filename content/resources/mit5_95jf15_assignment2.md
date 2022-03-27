@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 311223d8-b5ae-425f-99ae-8cf02c921bb0
 resourcetype: Document
 title: 5.95J Fall 2015 Post-Class 2 Assignment
 uid: 066edb22-f173-da76-e062-3f4230362e0c

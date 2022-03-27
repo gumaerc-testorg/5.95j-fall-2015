@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1230e0a4-90c2-3a03-6ca3-4571ab3c991c
 resourcetype: Document
 title: Microteaching Guidelines
 uid: c2555929-a09f-c201-4248-32062f490566

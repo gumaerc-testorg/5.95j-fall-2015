@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1230e0a4-90c2-3a03-6ca3-4571ab3c991c
 resourcetype: Document
 title: Guidelines for Ed Tech Usage
 uid: 0f0db9da-29bf-ee52-604a-6b7308ee1f0f

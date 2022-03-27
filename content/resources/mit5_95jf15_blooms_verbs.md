@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Supplemental Materials
 parent_type: CourseSection
+parent_uid: af75aac9-81b6-fb68-76e9-d5bb4b8fcef3
 resourcetype: Document
 title: "5.95J F15 Bloom\u2019s Taxonomy Handout"
 uid: dc650ef6-13af-83bd-01c5-8fdb343123ca

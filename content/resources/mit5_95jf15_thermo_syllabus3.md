@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Supplemental Materials
 parent_type: CourseSection
+parent_uid: af75aac9-81b6-fb68-76e9-d5bb4b8fcef3
 resourcetype: Document
 title: 5.95J F15 Syllabus from Thermodynamics of Materials
 uid: 6cbf1435-b1c4-2bcc-1e63-fdd5c1e95c2f

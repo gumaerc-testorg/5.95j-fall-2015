@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Supplemental Materials
 parent_type: CourseSection
+parent_uid: af75aac9-81b6-fb68-76e9-d5bb4b8fcef3
 resourcetype: Document
 title: 5.95J Session 5 Slides
 uid: 0f7e6410-6fd4-840a-70db-35b423845c63

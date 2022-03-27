@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class Session 5: Teaching Methodologies, Part II: Active Learning: Why and
   How'
 uid: 2b81faed-1ed8-bd82-3ecc-cb32eca8bd9f
