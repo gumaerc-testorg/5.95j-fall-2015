@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ' Examples of learning outcomes developed by students during the in-class
+  activity.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Supplemental Materials

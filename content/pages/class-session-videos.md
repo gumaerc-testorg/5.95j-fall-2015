@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes three class session videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Session Videos

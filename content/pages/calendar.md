@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course topics, intended learning outcomes for each
+  class, and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
