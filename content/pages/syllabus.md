@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on learning outcomes for the course,
+  expectations, assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8fb50ff6-abad-cdf3-6e28-184dab8bd9f9
 ---
@@ -49,12 +53,12 @@ Because I hope this is a class in which you will learn from one another as well 
 Texts & Materials
 -----------------
 
-You are expected to complete the relevant reading before each class session. The required and optional readings for each class are listed in the [Readings]({{< baseurl >}}/pages/readings) section.
+You are expected to complete the relevant reading before each class session. The required and optional readings for each class are listed in the {{% resource_link 1230e0a4-90c2-3a03-6ca3-4571ab3c991c "Readings" %}} section.
 
 Assignments / Gradings
 ----------------------
 
-There are 12 short, post-class assignments. Dues dates and descriptions are provided in the [Calendar]({{< baseurl >}}/pages/calendar) section and in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+There are 12 short, post-class assignments. Dues dates and descriptions are provided in the {{% resource_link d838e03a-a4de-2280-77bf-0ffbf8b50105 "Calendar" %}} section and in the {{% resource_link 311223d8-b5ae-425f-99ae-8cf02c921bb0 "Assignments" %}} section.
 
 In addition, each class will have at least one small-group, active learning assignment.
 

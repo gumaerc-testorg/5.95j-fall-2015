@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes three class session videos.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Session Videos
 uid: e430779c-ec29-4a20-dca3-e8413997d543
 ---

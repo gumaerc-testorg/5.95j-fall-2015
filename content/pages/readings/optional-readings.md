@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains a list of optional readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 1230e0a4-90c2-3a03-6ca3-4571ab3c991c
 title: Optional Readings
 uid: b1c8cd31-ef42-b7f0-28d5-7e6148cc209e
@@ -39,7 +44,7 @@ Bok, Derek. "The Evolution of American Colleges" and "Purposes." In _Our Underac
 
 Edmundson, Mark. "[On the Uses of a Liberal Education](http://harpers.org/archive/1997/09/on-the-uses-of-a-liberal-education/)." _Harper's Magazine_, September 1997, 39.
 
-Savkar, V., and J. Lokere. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Time to Decide: The Ambivalence of the World of Science Toward Education." (PDF)](http://i.zdnet.com/blogs/time-to-decide-nature-education-report-1.pdf) _Nature Education_. Cambridge, Massachusetts.
+Savkar, V., and J. Lokere. ["Time to Decide: The Ambivalence of the World of Science Toward Education." (PDF)](http://i.zdnet.com/blogs/time-to-decide-nature-education-report-1.pdf) _Nature Education_. Cambridge, Massachusetts.
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Chi, Michelene, T. H. "[Active-interactive-collaborative: A Conceptual Framework
 
 Crouch, C. H., A. P. Fagen, et al. "[Classroom Demonstrations: Learning Tools or Entertainment?](http://dx.doi.org/10.1119/1.1707018)" _American Journal of Physics_ 72, no. 6 (2004): 835–8.
 
-Mohamed, Abdi-Rizak. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Effects of Active Learning Variants on Student Performance and Learning Perceptions." (PDF)](http://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1105&context=ij-sotl) _International Journal for the Scholarship of Teaching and Learning_ 2, no. 2 (2008).
+Mohamed, Abdi-Rizak. ["Effects of Active Learning Variants on Student Performance and Learning Perceptions." (PDF)](http://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1105&context=ij-sotl) _International Journal for the Scholarship of Teaching and Learning_ 2, no. 2 (2008).
 
 Paulson, Donald R. "[Active Learning and Cooperative Learning in the Organic Chemistry Lecture Class](http://dx.doi.org/10.1021/ed076p1136)." _Journal of Chemical Education_ 76, no. 8 (1999): 1136.
 
@@ -243,7 +248,7 @@ Forsyth, Donelson R. "Grading (and Aiding): Helping Students Reach Their Learnin
 
 Senior Design Rubric - Department of Civil Engineering, University of Pittsburg Eberly Center for Teaching Excellence - [Carnegie-Mellon University Engineering Design Project Rubric (DOC)](https://www.cmu.edu/teaching/resources/Teaching/CourseDesign/Assessment-Grading/Rubrics/CivilEngineeringRubric.doc)
 
-[Rubrics for Group Work & Oral Exams (PDF)]({{< baseurl >}}/resources/mit5_95jf15_group_work_)
+{{% resource_link a775ec31-b67f-09fe-1934-2f2e285f2291 "Rubrics for Group Work & Oral Exams (PDF)" %}}
 
 Angelo & Cross. Classroom Assessment Techniques: Compiled by Kathryn Cunningham, MS Ed. and Deborah Moore, MS Ed. From: Angelo, T.A. and Cross, K.P. (1993) Classroom Assessment Techniques 2nd edition. San Francisco: Jossey-Bass Publishers.
 
@@ -310,7 +315,7 @@ Developing Your Teaching Philosophy
 
 [Writing a Philosophy of Teaching Statement](http://ucat.osu.edu/professional-development/teaching-portfolio/philosophy). Faculty and TA Development - Ohio State University, Teaching Philosophy Statements.
 
-[MIT Lecturer (PDF)]({{< baseurl >}}/resources/mit5_95jf15_lecturer)
+{{% resource_link 92940296-3409-3058-ce80-7eec666482c7 "MIT Lecturer (PDF)" %}}
 
 
 {{< tdclose >}}
