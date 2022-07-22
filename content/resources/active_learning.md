@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: active learning
 uid: 68aab975-18a3-39e4-91a6-bd54c8f35356
 ---
 The instructor is talking with students.
-

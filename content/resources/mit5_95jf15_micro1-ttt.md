@@ -5,6 +5,7 @@ file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/c2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Microteaching Guidelines
 uid: c2555929-a09f-c201-4248-32062f490566
 ---
 This file contains information regarding microteaching guidelines.
-

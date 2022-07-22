@@ -5,6 +5,7 @@ file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/a7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Grading Group Work
 uid: a775ec31-b67f-09fe-1934-2f2e285f2291
 ---
 This file contains information regarding grading group work.
-

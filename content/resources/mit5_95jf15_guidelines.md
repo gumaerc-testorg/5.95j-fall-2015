@@ -5,6 +5,7 @@ file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/0f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guidelines for Ed Tech Usage
 uid: 0f0db9da-29bf-ee52-604a-6b7308ee1f0f
 ---
 This file contains information regarding guidelines for ed tech usage.
-

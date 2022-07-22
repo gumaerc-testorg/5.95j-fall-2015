@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: Janet Rankin
 uid: 78bad098-ce40-7ab5-197e-2235c8193d61
 ---
 The instructor, Janet Rankin, is talking.
-

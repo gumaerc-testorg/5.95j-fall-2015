@@ -5,6 +5,7 @@ file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/36
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 5.95J Fall 2015 Post-Class 6 Assignment
 uid: 364f7018-718b-c591-74e1-ceb9b2701849
 ---
 This file contains information regarding post-class 6 sssignment.
-
