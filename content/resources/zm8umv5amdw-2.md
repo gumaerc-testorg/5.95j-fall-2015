@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/b16e24ba95f55dab87e32a6f0a860566_Zm8uMV5aMdw.vtt
+file_size: 1755
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

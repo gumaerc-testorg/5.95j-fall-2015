@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding teaching college-level\
   \ science and engineering: Bloom\u2019s taxonomy handout."
 file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/b8e07cf366363d8712dc7903bff84521_MIT5_95JF15_class4_slides.pdf
+file_size: 1049877
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

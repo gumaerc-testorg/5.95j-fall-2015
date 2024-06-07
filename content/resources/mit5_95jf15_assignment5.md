@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding post-class 5 sssignment.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/c81e95d644dcc1b371aacc692bca7864_MIT5_95JF15_Assignment5.pdf
+file_size: 71653
 file_type: application/pdf
 learning_resource_types:
 - Assignments
