@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding post-class 9 sssignment.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/a74734cf0c68a656288721b9cb29c9f0_MIT5_95JF15_Assignment9.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/a74734cf0c68a656288721b9cb29c9f0_MIT5_95JF15_Assignment9.pdf
 file_size: 71373
 file_type: application/pdf
 learning_resource_types:

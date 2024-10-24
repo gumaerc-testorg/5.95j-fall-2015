@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The instructor is talking with students.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/68aab97518a339e491a6bd54c8f35356_active_learning.jpg
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/68aab97518a339e491a6bd54c8f35356_active_learning.jpg
 file_size: 20858
 file_type: image/jpeg
 image_metadata:
