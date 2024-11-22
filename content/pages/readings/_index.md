@@ -19,7 +19,7 @@ READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-Introduction to the Class    
+Introduction to the Class        
 What is the Purpose of College – Now, Then, Tomorrow?
 {{< tdclose >}}{{< tdopen >}}
 
@@ -43,7 +43,7 @@ Halpern, D. F., and M. D. Hakel. "Applying the Science of Learning." *Change* (2
 
 Lang, J. M. "Week 7-Students as Learners." In *On Course: A Week by Week Guide to Your First Semeseter of College Teaching*. Harvard University Press, 2008, pp. 153–77. ISBN: 9780674028067. \[Preview with [Google Books](http://books.google.com/books?id=Eepj85yUWlEC&pg=PA153#v=onepage)\]
 
-Boettcher, J. V. "[Ten Core Principles for Designing Effective Learning Environments: Insights from Brain Research and Pedagogical Theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.186.6518)." 2007.
+Boettcher, J. V. "[Ten Core Principles for Designing Effective Learning Environments: Insights from Brain Research and Pedagogical Theory](https://nsuworks.nova.edu/context/innovate/article/1099/viewcontent/Ten_Core_Principles_for_Designing_Effective_Learning_Environments___Insights_from_Brain_Research_and_Pedagogical_Theory.pdf)." 2007.
 
 Short Film: [Teaching Teaching and Understanding Understanding.](https://www.youtube.com/watch?v=iMZA80XpP6Y) Aarhus University Press, 2006.
 
@@ -135,7 +135,7 @@ Mayer, Richard. "[Elements of a Science of E-Learning](http://dx.doi.org/10.2190
 
 Berrett, Dan. "[How 'Flipping' the Classroom Can Improve the Traditional Lecture](http://chronicle.com/article/How-Flipping-the-Classroom/130857/)," *The Chronicle of Higher Education*, February 19, 2012.
 
-Dahlstrom, Eden, J. D. Walker, and Charles Dziuban, foreward by Glenda Morgan. ["*ECAR Study of Undergraduate Students and Information Technology*." (PDF - 2.6MB)](http://web.mit.edu/afs/athena/course/5/5.95/jr/PCR8/ECAR2013.pdf) 2013 (Research Report). Louisville, CO: EDUCAUSE Center for Analysis and Research, September 2013.    
+Dahlstrom, Eden, J. D. Walker, and Charles Dziuban, foreward by Glenda Morgan. ["*ECAR Study of Undergraduate Students and Information Technology*." (PDF - 2.6MB)](http://web.mit.edu/afs/athena/course/5/5.95/jr/PCR8/ECAR2013.pdf) 2013 (Research Report). Louisville, CO: EDUCAUSE Center for Analysis and Research, September 2013.        
 You need to read only the Executive Summary.
 
 Aleman, L. and D. Shah. {{% resource_link "0f0db9da-29bf-ee52-604a-6b7308ee1f0f" "*Guidelines on Ed Tech Usage* (PDF)" %}}. Created for the MIT Teaching Certificate Program, 2012.
@@ -146,12 +146,12 @@ Aleman, L. and D. Shah. {{% resource_link "0f0db9da-29bf-ee52-604a-6b7308ee1f0f"
 Grading and Assessment
 {{< tdclose >}}{{< tdopen >}}
 
-[Carl Wieman Science Education Initiative-Assessments That Support Student Learning (PDF)](http://www.cwsei.ubc.ca/resources/files/Assessment_That_Support_Learning.pdf)    
+[Carl Wieman Science Education Initiative-Assessments That Support Student Learning (PDF)](http://www.cwsei.ubc.ca/resources/files/Assessment_That_Support_Learning.pdf)        
 *From*: Key points and factors from the review paper "Conditions under which Assessment Supports Student Learning." By G. Gibbs and C. Simpson.
 
 McKeachie, W. J. "The A, B, C's of Assigning Grades." Chapter 9 in *Teaching Tips: A Guidebook for the Beginning College Teacher*. Heath, 1969.
 
-Piontek, Mary E. ["CRLT Occasional Paper No. 24: Best Practices for Designing and Grading Exams." (PDF)](http://www.crlt.umich.edu/sites/default/files/resource_files/CRLT_no24.pdf) Center for Research on Teaching and Learning, University of Michigan, 2001.
+Piontek, Mary E. ["CRLT Occasional Paper No. 24: Best Practices for Designing and Grading Exams." (PDF)](https://crlt.umich.edu/sites/default/files/resource_files/CRLT_no24.pdf) Center for Research on Teaching and Learning, University of Michigan, 2001.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -179,7 +179,7 @@ Developing Your Teaching Philosophy
 
 Haugen, Lee. "[Writing a Teaching Philosophy Statement (PDF)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjIsPKvmZeCAxXnkIkEHaghDG8QFnoECBoQAQ&url=https%3A%2F%2Fbpb-us-e1.wpmucdn.com%2Fblogs.uoregon.edu%2Fdist%2F5%2F19998%2Ffiles%2F2023%2F04%2FWriting-a-Teaching-Philosophy-Statement.pdf&usg=AOvVaw24TMLOjajfN5WnLTsgAbIi&opi=89978449)." *Center for Teaching Excellence*, Iowa State University, 1998.
 
-Oneil, C., D. Meizlich, and M. Kaplan. "[Writing a Statement of Teaching Philosophy for the Academic Job Search](http://www.crlt.umich.edu/sites/default/files/resource_files/CRLT_no23.pdf)." Center for Research on Teaching and Learning, University of Michigan, 2007.
+Oneil, C., D. Meizlich, and M. Kaplan. "Writing a Statement of Teaching Philosophy for the Academic Job Search." Center for Research on Teaching and Learning, University of Michigan, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12–13
