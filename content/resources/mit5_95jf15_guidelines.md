@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding guidelines for ed tech usage.
-file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/0f0db9da29bfee52604a6b7308ee1f0f_MIT5_95JF15_Guidelines.pdf
+file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/0f0db9da29bfee52604a6b7308ee1f0f_MIT5_95JF15_Guidelines.pdf
 file_size: 521466
 file_type: application/pdf
 learning_resource_types:

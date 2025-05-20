@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The instructor, Janet Rankin, is talking.
-file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/78bad098ce407ab5197e2235c8193d61_Janet_Rankin.jpg
+file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/78bad098ce407ab5197e2235c8193d61_Janet_Rankin.jpg
 file_size: 18675
 file_type: image/jpeg
 image_metadata:

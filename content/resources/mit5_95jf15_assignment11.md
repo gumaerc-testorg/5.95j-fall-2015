@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding post-class 11 sssignment.
-file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/7ace411db870a0d01182de5d23c86eac_MIT5_95JF15_Assignment11.pdf
+file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/7ace411db870a0d01182de5d23c86eac_MIT5_95JF15_Assignment11.pdf
 file_size: 121940
 file_type: application/pdf
 learning_resource_types:

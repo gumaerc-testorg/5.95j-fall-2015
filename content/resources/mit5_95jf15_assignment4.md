@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding post-class 4 sssignment.
-file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/3d797793689bf58641bce9890a6ba0dc_MIT5_95JF15_Assignment4.pdf
+file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/3d797793689bf58641bce9890a6ba0dc_MIT5_95JF15_Assignment4.pdf
 file_size: 87920
 file_type: application/pdf
 learning_resource_types:
