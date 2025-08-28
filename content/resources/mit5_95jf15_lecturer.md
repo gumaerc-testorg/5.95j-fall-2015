@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecturer.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/9294029634093058ce807eec666482c7_MIT5_95JF15_lecturer.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/9294029634093058ce807eec666482c7_MIT5_95JF15_lecturer.pdf
 file_size: 149835
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/ba52923907fe4067d1b54552cef056b8_MIT5_95JF15_class6_slides.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/ba52923907fe4067d1b54552cef056b8_MIT5_95JF15_class6_slides.pdf
 file_size: 333638
 file_type: application/pdf
 learning_resource_types: []

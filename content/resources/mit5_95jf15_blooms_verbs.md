@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding teaching college-level\
   \ science and engineering: Bloom\u2019s taxonomy handout."
-file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/dc650ef613af83bd01c58fdb343123ca_MIT5_95JF15_blooms_verbs.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/dc650ef613af83bd01c58fdb343123ca_MIT5_95JF15_blooms_verbs.pdf
 file_size: 130565
 file_type: application/pdf
 learning_resource_types: []
