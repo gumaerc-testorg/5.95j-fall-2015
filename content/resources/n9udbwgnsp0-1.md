@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/43be0fd8a423916a38e76ee8f9919609_n9uDbwgnSp0.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/43be0fd8a423916a38e76ee8f9919609_n9uDbwgnSp0.pdf
 file_size: 16009
 file_type: application/pdf
 learning_resource_types: []
