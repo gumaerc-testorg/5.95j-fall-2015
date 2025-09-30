@@ -90,7 +90,7 @@ Designing a Course: Developing Learning Outcomes
 By the end of class 3, students should be able to:
 
 *   Describe the components the constructive alignment & backward design model.
-*   Explain the [4C-ID](http://edutechwiki.unige.ch/en/4C-ID) Framework to an intelligent non-expert.
+*   Explain the {{% resource_link "c2e4eb1c-a36a-42ab-a166-98889218d9f4" "4C-ID" %}} Framework to an intelligent non-expert.
 *   Define content priorities for a class you may teach.
 *   Create measurable learning outcomes for a course you may teach.
 
