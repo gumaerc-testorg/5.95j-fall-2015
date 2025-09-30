@@ -20,20 +20,20 @@ Session 3: Designing a Course: Developing Learning Outcomes
 
 {{% resource_link 53ff85b0-bc32-07bd-b960-263b3446a5cf "Slides from Session 3 (PDF)" %}}
 
-[Developing Intended Learning Outcomes - Handout / Table](http://cei.umn.edu/support-services/tutorials/integrated-aligned-course-design/part-2-establishing-student-learning)
+{{% resource_link "54393ddd-6e11-47be-a75d-6259eefe7006" "Developing Intended Learning Outcomes - Handout / Table" %}}
 
 {{% resource_link dc650ef6-13af-83bd-01c5-8fdb343123ca "Bloom's Taxonomy Handout (PDF)" %}}
 
-[ABET (PDF)](http://www.abet.org/wp-content/uploads/2015/05/E001-15-16-EAC-Criteria-03-10-15.pdf)  
+{{% resource_link "65a6e414-5932-4f28-908b-fe1848f0c1a6" "ABET (PDF)" %}}  
 _See Criterion 3 for Learning Outcomes_
 
 {{% resource_link 942721ab-4ef5-c000-5aa4-42c147f9a001 "Photos from the In-class Activity" %}}
 
 {{% resource_link 6cbf1435-b1c4-2bcc-1e63-fdd5c1e95c2f "Annotated Syllabus (PDF)" %}}
 
-[Special Accommodations for MIT Students](http://web.mit.edu/uaap/sds/students/procedures.html)
+{{% resource_link "1a67f676-3110-4a40-9437-b44cfb3954ea" "Special Accommodations for MIT Students" %}}
 
-[Academic Integrity at MIT](http://integrity.mit.edu/)
+{{% resource_link "15a44b6d-e6fa-4423-9b48-6dcd52716eaf" "Academic Integrity at MIT" %}}
 
 {{% resource_link 097642a9-e751-20a7-41d4-c9f90b84b665 "Some Additional Thoughts on Intended Learning Outcomes (PDF)" %}}
 
