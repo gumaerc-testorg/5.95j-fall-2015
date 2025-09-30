@@ -86,7 +86,7 @@ Mostly mechanical engineering, electrical engineering and computer science, busi
 
 ### Typical Student Background
 
-Visiting faculty were part of the [MIT-Africa Initiative](https://misti.mit.edu/mit-africa) and brought prior teaching experience to the course. A few other participants also had prior teaching experience.
+Visiting faculty were part of the {{% resource_link "32830b03-b094-4bdf-a103-b25a8969dd40" "MIT-Africa Initiative" %}} and brought prior teaching experience to the course. A few other participants also had prior teaching experience.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
